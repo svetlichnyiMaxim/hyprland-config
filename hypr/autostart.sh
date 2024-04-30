@@ -6,5 +6,5 @@ wl-clipboard-history -t &
 wl-paste --watch cliphist store &
 dunst &
 exec-once=/usr/lib/polkit-kde-authentication-agent-1 &
-set GTK_THEME Sweet-Dark
+set GTK_THEME Sweet-Dark &
 
